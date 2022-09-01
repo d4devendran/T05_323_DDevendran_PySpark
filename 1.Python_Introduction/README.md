@@ -1,10 +1,12 @@
 # Python Introdction
 
 1.What is python?
+
 --> Python is interpreted, High level , Object oriented programming language.
 --> Python is a programming language that combines the features of  C and Java
 
 2.Features of python?
+
 --> Simple
 --> Easy to learn
 --> Open source
@@ -15,18 +17,21 @@
 --> Procedure and Object oriented language
 
 3.PVM
+
 --> Compiler converts the program source code into bytecode
 --> The role of Python Virtual Machine is to convert the byte code instructions into machine code 
 --> The interpreter converts the byte code into machine code and sends machine code to the computer processor for execution.
 --> since interpreter is playing the main role, often Python Virtual Machine is also called an interpreter
 
 4.Memory Management in python
+
 --> Memory manager inside the PVM allocates memory required for objects created in a Python program.
 --> All these objects are stored on separate memory called heap.
 --> Heap is the memory which allocated during runtime.
 --> The size of the heap memory depends on the Random Access Memory of our computer and it can increase or decrease its size depending on the requirement of the program.
 
 5.Garbage collection in python
+
 --> Garbage collector is a module in Python that is useful to delete objects from memory which are not used in the program
 --> Garbage collector can detect reference cycles. When an object is found with a reference count 0 , garbage collector understands that the object is not used by the program.
 --> Garbage collector tries to delete the objects which are not referenced in the program
@@ -34,6 +39,7 @@
 --> collect()---To run Garbage collector manually 
 
 6.Comparisons between Java and Python
+
 			          JAVA 									                       PYTHON
 
 1.Java is object oriented programming	           1.Python is interpreted, High level,object oriented programming language.
@@ -49,9 +55,11 @@ Stack, LinkedList or Vector store only
 objects  
 
 7.IDE & IDLE
+
 --> IDLE Integrated Development Environment
 
 8.Comments in python
+
 --> Single line comments:
 These comments starts with a hash symbol(#)
 Ex: 
