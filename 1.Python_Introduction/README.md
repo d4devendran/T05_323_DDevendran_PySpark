@@ -9,7 +9,7 @@
 7. IDE & IDLE
 8. Comments in python
 
-# Python Interview Questions
+# Python Introduction Interview Questions
 
 1. Python Features
 2. Advantages and Disadavntages of Python
