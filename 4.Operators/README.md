@@ -1,4 +1,5 @@
 # Python_Operators
+Types of operators
 1. Arithmatic operators
 2. Assignment operatiors
 3. Comparison operators
