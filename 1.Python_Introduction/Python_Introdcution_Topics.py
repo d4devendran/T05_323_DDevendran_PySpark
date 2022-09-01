@@ -1,3 +1,5 @@
+PYTHON INTRODUCTION 
+
 1.What is python?
 --> Python is interpreted, High level , Object oriented programming language.
 --> Python is a programming language that combines the features of  C and Java
@@ -35,18 +37,17 @@
 
 			JAVA 									PYTHON
 
-1.Java is object oriented programming	    1.Python is interpreted, High level,object oriented programming language.
-2.it is compulsory to declare the datatypes 2.Type declaration is not required in
-of variables,arrays etc in Java				   python
-3.Memory allocation done by JVM			    3.Memory allocation done by PVM
-4.Java has for , do…while , while loops 	4.Python has while and for loops
-and switch statement				          does not have switch statement.
-5.Java supports both single and multi-		5. python supports only single
-dimensional arrays						    dimensional array for multi we need to
-										    import numpy
-6. Java collection objects like				6.python collection objects like lists and
-Stack, LinkedList or Vector store only		dictionaries can store any type of objects
-objects
+1.Java is object oriented programming	      	 1.Python is interpreted, High level,object oriented programming language.
+2.it is compulsory to declare the datatypes	 2.Type declaration is not required in Python
+  of variables,arrays etc in Java				   
+3.Memory allocation done by JVM			 3.Memory allocation done by PVM
+4.Java has for , do…while , while loops 	 4.Python has while and for loops
+  and switch statement				   it does not have switch statement.
+5.Java supports both single and multi-		 5.python supports only single dimensional array for multi we need to import numpy
+  dimensional arrays						    										    
+6. Java collection objects like			 6.python collection objects like lists and
+   Stack, LinkedList or Vector store only          dictionaries can store any type of objects
+   objects
 
 7.IDE & IDLE
 --> IDLE Integrated Development Environment
