@@ -17,3 +17,13 @@
 8.Comments in python
 
 # Python Interview Questions
+
+1. Python Features
+2. Advantages and Disadavntages of Python
+3. Compile time Vs Run time
+4. Tokens in python
+5. Memory management in python
+6. Garbage collection, How it works
+7. .Py vs .Pyc file
+8. How python executes internally
+9. Python is dynamically programming launguage. Why?
