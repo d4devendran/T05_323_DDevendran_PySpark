@@ -8,7 +8,7 @@
 7. Bitwise operators
 
 # Python_Operators_Interview_Questions
-1. == vs is operator
+1. difference between == vs is operator
 2. difference between /,// & % operator
 
 # Python_Operators_Video
