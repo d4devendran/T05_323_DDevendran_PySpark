@@ -1,7 +1,9 @@
 # Python_Keywords
 
 Keywords are the reserved words,
+
 Keywords having pre-defined meaning,
+
 We can't use keywords as variables.
 
 # Python_Keywords_Interview_Questions
