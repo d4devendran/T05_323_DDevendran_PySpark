@@ -1,4 +1,4 @@
-# Python Introduction Topics
+# Python_Introduction_Topics
 
 1. What is python?
 2. Features of python?
@@ -9,7 +9,7 @@
 7. IDE & IDLE
 8. Comments in python
 
-# Python Introduction Interview Questions
+# Python_Introduction_Interview_Questions
 
 1. Python Features
 2. Advantages and Disadavntages of Python
