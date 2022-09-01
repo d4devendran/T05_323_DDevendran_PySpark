@@ -6,6 +6,7 @@
 
 --> Python is a programming language that combines the features of  C and Java
 
+
 2.Features of python?
 
 --> Simple
@@ -24,6 +25,7 @@
 
 --> Procedure and Object oriented language
 
+
 3.PVM
 
 --> Compiler converts the program source code into bytecode
@@ -34,6 +36,7 @@
 
 --> since interpreter is playing the main role, often Python Virtual Machine is also called an interpreter
 
+
 4.Memory Management in python
 
 --> Memory manager inside the PVM allocates memory required for objects created in a Python program.
@@ -43,6 +46,7 @@
 --> Heap is the memory which allocated during runtime.
 
 --> The size of the heap memory depends on the Random Access Memory of our computer and it can increase or decrease its size depending on the requirement of the program.
+
 
 5.Garbage collection in python
 
@@ -55,6 +59,7 @@
 --> get_threshold()---To know how many times garbage collector removed
 
 --> collect()---To run Garbage collector manually 
+
 
 6.Comparisons between Java and Python
 
@@ -79,9 +84,11 @@ dimensional arrays
 Stack, LinkedList or Vector store only		
 objects  
 
+
 7.IDE & IDLE
 
 --> IDLE Integrated Development Environment
+
 
 8.Comments in python
 
