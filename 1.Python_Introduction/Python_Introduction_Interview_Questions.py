@@ -2,7 +2,7 @@ PYTHON INTRODUCTION
 
 1. PYTHON FEATURES:
 
-	 1.High level programming language
+     1.High level programming language
         Programming languages are of two types: low level and high level
         A low level language uses machine code instructions, these instructions directly interact with the CPU.
         High  level languages use English words to develop programs,These are easy to learn and use like COBOl,PHP or JAVA
