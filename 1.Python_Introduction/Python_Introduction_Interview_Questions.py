@@ -3,33 +3,33 @@ PYTHON INTRODUCTION
 1. PYTHON FEATURES:
 
      1.High level programming language
-        Programming languages are of two types: low level and high level
-        A low level language uses machine code instructions, these instructions directly interact with the CPU.
-        High  level languages use English words to develop programs,These are easy to learn and use like COBOl,PHP or JAVA
-        Python also uses English words in its programs and hence it is called high level programming language.
+       --> Programming languages are of two types: low level and high level
+       --> A low level language uses machine code instructions, these instructions directly interact with the CPU.
+       --> High  level languages use English words to develop programs,These are easy to learn and use like COBOl,PHP or JAVA
+       --> Python also uses English words in its programs and hence it is called high level programming language.
 
      2.Dynamically typed
-        We don't have to declare the type of variable while assigning a value to a variable in Python.
-        Other languages like C, C++, Java, etc.., there is a strict declaration of variables before assigning values to them.
-        It states the kind of variable in the runtime of the program. So, Python is a dynamically typed language
+       --> We don't have to declare the type of variable while assigning a value to a variable in Python.
+       --> Other languages like C, C++, Java, etc.., there is a strict declaration of variables before assigning values to them.
+       --> It states the kind of variable in the runtime of the program. So, Python is a dynamically typed language
 
      3.Platform independent
-        When a python program is compiled using a python compiler, it generates a byte code. Python's byte code represents a
-        fixed set of instructions that run on all operating systems and hardware. Using a PVM anybody can run these byte code
-        instructions on any operating systems like UNIX, Linux,Windows etc.
+       --> When a python program is compiled using a python compiler, it generates a byte code. Python's byte code represents a
+           fixed set of instructions that run on all operating systems and hardware. 
+       --> Using a PVM anybody can run these byte code instructions on any operating systems like UNIX, Linux,Windows etc.
 
      4.Portable
-        When program yields the same result on any compueter in the world, the it is called a portable program.
+       --> When program yields the same result on any compueter in the world, the it is called a portable program.
 
      5.Procedure oriented and Object Oriented
-       Python is a procedure oriented as well as object oriented programming language,
-       In procedure oriented programming languages, the programs are built using fuctions and procedures e.g C,PASCAL
-       In object oriented programming languages, the programs uses classes and objects e.g C++,JAVA
+       --> Python is a procedure oriented as well as object oriented programming language,
+       --> In procedure oriented programming languages, the programs are built using fuctions and procedures e.g C,PASCAL
+       --> In object oriented programming languages, the programs uses classes and objects e.g C++,JAVA
 
      6.Interpreted
-       A program code is called source code, Python compiler translates the python program into intermediate code called byte
-       code. This byte code is then executed by PVM. Inside the PVM, an interpreter converts the byte code intsructions into
-       machine code so that the processor will understand and run that machine code to produce results.
+       --> A program code is called source code, Python compiler translates the python program into intermediate code called byte
+           code. This byte code is then executed by PVM. Inside the PVM, an interpreter converts the byte code intsructions into
+           machine code so that the processor will understand and run that machine code to produce results.
 
 2. ADVANTAGES AND DISADVANTAGES of python
 
@@ -73,6 +73,29 @@ Tokens are like
 4.Keywords
 5.Constants
 
+A.Identifiers :
+	Name of the variables Ex: x=10
+    Here ‘ x’ is an identifier
+
+B. Operators:
+	These are mathematical expressions like +, -,*,/,%, etc
+    Ex: x=10
+    Here ‘=‘ is an operator for assigning value
+
+C. Literals:
+	Literals are nothing but values that are assigned to variables.
+    Ex: x=10
+    Here value 10  is a literal
+
+D. Keywords:
+	Keywords are predefined words in python like Alpha, Beta & Gamma in maths.
+    Ex: for , if , class , while etc
+
+E. Constants:
+	These are the values that we can’t change.
+    Ex: x=10
+	Here 10 is constant , the value of 10 we can’t change.
+	
 6.MEMORY MANAGEMENT IN PYTHON:
 
 --> Memory manager inside the PVM allocates memory required for objects created in a Python program.
