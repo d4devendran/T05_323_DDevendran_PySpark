@@ -1,6 +1,6 @@
 # Python_Variables
 
-1. What is variable
+1. What is variable?
 2. LEGB rule
 3. Tokens
 
