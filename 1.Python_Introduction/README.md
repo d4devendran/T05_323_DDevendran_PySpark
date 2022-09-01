@@ -1,9 +1,7 @@
 # Python Introduction Topics
 
 1.What is python?
-
 2.Features of python?
-
 3.PVM
 
 4.Memory Management in python
