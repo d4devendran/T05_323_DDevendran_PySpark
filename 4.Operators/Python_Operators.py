@@ -1,4 +1,5 @@
 Operators:
+	
 --> Python Operators in general are used to perform operations on values and variables.
 --> OPERATORS: Are the special symbols. Eg- + , * , /, etc.
 --> OPERAND: It is the value on which the operator is applied.
