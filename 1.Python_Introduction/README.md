@@ -22,4 +22,4 @@
 9. Python is dynamically programming launguage. Why?
 
 # Python_Introduction_Video
-1. https://github.com/d4devendran/T05_323_DDevendran_PySpark/
+1. https://drive.google.com/drive/folders/1GF4vOwgb0fKChM8abGi6y2mmDa7GAjwD?usp=sharing
