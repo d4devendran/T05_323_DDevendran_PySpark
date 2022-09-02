@@ -32,9 +32,9 @@ Syntax:
 Python programming allows use of loop inside another loop
 This is called Nested loop.
 
-Syntax:										Syntax:
+Syntax:							Syntax:
 
 for iterating_var in sequence:				while expression:
 	for iterating_var in sequence:				while expression:
-		<statements>								statements
-<statements>								statements
+		<statements>						<statements>
+<statements>						<statements>
