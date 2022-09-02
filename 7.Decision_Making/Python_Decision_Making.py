@@ -1,7 +1,7 @@
 Python Decision making:
  Decision making is anticipation of conditions occurring while execution of programs and specifying actions were taken according to conditions
 
-	1. Python Program Assumptions
+  1. Python Program Assumptions
         Decision Python programming language assumes any
 
         A.non-zero and not-None values as True, and if it either
